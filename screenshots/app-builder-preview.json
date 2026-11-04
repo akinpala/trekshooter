@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Banana Quadrant",
+      "hasCanvas": true,
+      "bodyTextLen": 193,
+      "bodyTextHash": "ea625f76e3e043e0fe131b6ab4bce76d0125ab9bbd9e1d0ac8d52ae7f69bb1b0",
+      "bodyTextPrefix": "Banana Quadrant ORCHARD FLEET BANANA QUADRANT Saucer cruisers on",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Banana Quadrant",
+      "hasCanvas": true,
+      "bodyTextLen": 193,
+      "bodyTextHash": "ea625f76e3e043e0fe131b6ab4bce76d0125ab9bbd9e1d0ac8d52ae7f69bb1b0",
+      "bodyTextPrefix": "Banana Quadrant ORCHARD FLEET BANANA QUADRANT Saucer cruisers on",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
